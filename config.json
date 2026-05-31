@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachevpdate",
+        "uuid": 6755592,
+        "checksum": "2lm0ll"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
